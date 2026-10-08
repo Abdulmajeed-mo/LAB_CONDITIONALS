@@ -38,7 +38,7 @@ if student.lower() == "yes" and ticket_price != 0:
 if user_age < 0:
     print("Invalid age")
 
-    4
+    
 if day.lower() not in ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"]:
     print("Invalid day")
 
