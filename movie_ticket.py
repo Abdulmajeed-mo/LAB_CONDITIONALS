@@ -6,6 +6,9 @@ student=input("Are you a student? (yes/no): ")
 
 
 
+
+
+
 if user_age < 5:
     ticket_price = 0
 
